@@ -1,0 +1,98 @@
+[
+  {
+    "id": "rco2iuo8giu9p6rj",
+    "name": "boneco naruto",
+    "oldPrice": 40,
+    "currentPrice": 33,
+    "stock": 2,
+    "photo": "./images/naruto.webp"
+  },
+  {
+    "id": "rco2ijbpi9p6rj",
+    "name": "Estatueta Deus da guerra",
+    "oldPrice": 120,
+    "currentPrice": 80,
+    "stock": 1,
+    "photo": "./images/naruto.webp"
+  },
+  {
+    "id": "rcooibhu29p6rj",
+    "name": "chaveiro ",
+    "oldPrice": 25,
+    "currentPrice": 15,
+    "stock": 2,
+    "photo": "./images/naruto.webp"
+  },
+  {
+    "id": "rco29pv6786rj",
+    "name": "pelota",
+    "oldPrice": "3",
+    "currentPrice": "2",
+    "stock": 1,
+    "photo": "./images/menu-3.png"
+  },
+  {
+    "id": "ibuh9okrco29p6rj",
+    "name": "chave de rosca",
+    "oldPrice": "15",
+    "currentPrice": "12",
+    "stock": 10,
+    "photo": "./images/menu-3.png"
+  },
+  {
+    "id": "rco29kjhbuop6rj",
+    "name": "café",
+    "oldPrice": "15",
+    "currentPrice": "10",
+    "stock": 100,
+    "photo": "./images/menu-3.png"
+  },
+  {
+    "id": "rco29poibh6rj",
+    "name": "dentadura",
+    "oldPrice": "20",
+    "currentPrice": "10",
+    "stock": 10,
+    "photo": "./images/menu-3.png"
+  },
+  {
+    "id": "rco29oibp6rj",
+    "name": "teste",
+    "oldPrice": "200",
+    "currentPrice": "100",
+    "stock": 12,
+    "photo": "./images/menu-3.png"
+  },
+  {
+    "id": "robut29p6rj",
+    "name": "teste 2",
+    "oldPrice": "10",
+    "currentPrice": "5",
+    "stock": 10,
+    "photo": "./images/menu-3.png"
+  },
+  {
+    "id": "rco29p6rj",
+    "name": "pipoca",
+    "oldPrice": "5",
+    "currentPrice": "2",
+    "stock": 10,
+    "photo": "./images/menu-3.png"
+  },
+  {
+    "id": "xijkabsim",
+    "name": "pelota teste",
+    "oldPrice": "10.50",
+    "currentPrice": "7.50",
+    "stock": 10,
+    "photo": "./images/menu-3.png"
+  },
+  {
+    "id": "0201tic66",
+    "name": "pelota teste 3245678",
+    "oldPrice": "10.50",
+    "currentPrice": "7.50",
+    "stock": 10,
+    "photo": "./images/menu-3.png"
+  }
+]

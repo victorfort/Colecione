@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap" rel="stylesheet">
+
+    <title>Cafeteria Patoense</title>
+</head>
+
+<body>
+
+
+    <header class="header">
+        <section>
+            <a href="#" class="logo">
+                <img src="images/logo.svg" width="140" height="60" alt="logo">
+            </a>
+            <nav class="navBar">
+                <a href="#">Home</a>
+                <a href="#about">Sobre</a>
+                <a href="#itens">Nossos Itens</a>
+                <a href="#address">Endereços</a>
+            </nav>
+            <div class="icons">
+
+                <div id="cart" onclick="openCart()">
+                    <img width="30" height="30" src="https://img.icons8.com/000000/shopping-cart--v1"
+                        alt="carrinho-de-compras">
+                    <span id="cart-count" class="cart-count">0</span>
+
+                </div>
+            </div>
+        </section>
+    </header>
+    <section id="main">
+        <div class="home-container">
+            <section id="home">
+                <div class="content">
+                    <h3>O Melhor café da Região</h3>
+                    <p>Bem-vindo(a) à Colecione, o lugar onde seus sonhos se tornam realidade!
+
+                        Somos mais que uma loja de colecionáveis. 
+                        Aqui, cada item é uma oportunidade de trazer para o mundo real os personagens, 
+                        universos e histórias que marcaram a sua imaginação. 
+                        Seja você fã de filmes, séries, animes ou games, nossa missão é dar vida aos seus sonhos 
+                        e conectar você a esse universo que tanto ama.
+                        !</p>
+                    <a class="btn" href="#">Pegue o seu agora!</a>
+                </div>
+            </section>
+        </div>
+        <section class="about" id="about">
+            <h2 class="title">Sobre <span>Nós</span></h2>
+            <div class="row">
+                <div class="container-img">
+                    <img width="700" height="500" src="images/sobre.jpeg" alt="sobre-nos">
+                </div>
+                <div class="content">
+                    <h3>O que fáz nossa loja especial</h3>
+                    <p>
+                        Acreditamos que colecionar é mais do que apenas possuir, 
+                        é criar memórias e manter vivas as emoções que nos inspiram. 
+                        De action figures a itens exclusivos, cada peça é cuidadosamente 
+                        selecionada para fazer parte da sua coleção e da sua história.
+                        
+                        Deixe a imaginação fluir e leve para a sua casa um pedaço do que antes vivia
+                         apenas nos seus sonhos. Na Colecione, a fantasia encontra a realidade</p>
+                    
+                    <a class="btn" href="#">Saiba mais!</a>
+                </div>
+            </div>
+        </section>
+        <section id="itens" class="itens">
+            <h2 class="title"> Nossos <span>Itens</span></h2>
+            <div class="box-container" id="itens-container">
+
+
+            </div>
+        </section>
+       
+
+        <section class="address" id="address">
+            <h2 class="title">nosso <span>Endereço</span></h2>
+            <iframe
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3959.891554749882!2d-37.28113842500257!3d-7.022031892979667!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7af60365e60d8fd%3A0x19dde1d31de6c9aa!2sPatos%20Shopping!5e0!3m2!1spt-BR!2sbr!4v1726455226247!5m2!1spt-BR!2sbr"
+                width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+                referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </section>
+        <section class="footer">
+            <div class="share">
+                <a href="http://www.instagram.com/victor.frt/" target="_blank">
+                    <img width="50" height="50" src="https://img.icons8.com/000000/ios/50/instagram-new--v1.png"
+                        alt="instagram-new--v1" /></a>
+                <img width="50" height="50" src="https://img.icons8.com/000000/ios/50/facebook-new.png"
+                    alt="facebook-new" />
+                <img width="50" height="50" src="https://img.icons8.com/000000Bem-vindo(a) à [Nome da Loja], o lugar onde seus sonhos colecionáveis se tornam realidade!
+
+                Somos mais que uma loja de colecionáveis. Aqui, cada item é uma oportunidade de trazer para o mundo real os personagens, universos e histórias que marcaram a sua imaginação. Seja você fã de filmes, séries, animes ou games, nossa missão é dar vida aos seus sonhos e conectar você a esse universo de fantasia que tanto ama.
+                
+                Acreditamos que colecionar é mais do que apenas possuir, é criar memórias e manter vivas as emoções que nos inspiram. De action figures a itens exclusivos, cada peça é cuidadosamente selecionada para fazer parte da sua coleção e da sua história.
+                
+                Deixe a imaginação fluir e traga para a sua casa um pedaço do que antes vivia apenas nos seus sonhos. Na [Nome da Loja], a fantasia encontra a realidade!/ios/50/whatsapp--v1.png"
+                    alt="whatsapp--v1" />
+            </div>
+        </section>
+
+
+
+    </section>
+    <div id="modalCart" class="cart ">
+        <div>
+            <button class="btnCloseCart" onclick="closeCart()">
+                x
+            </button>
+            
+            <div id="cartItens">
+            </div>
+            
+            <div id="totalCart">
+                <p>Valor Total:</p>
+                <p id="totalPrice">
+                </p>
+                <button class="btnCloseCart" onclick="buy()">
+                    Comprar
+                </button>
+            
+            </div>
+        </div>
+    </div>
+
+
+
+    <script src="scripts/CartAdd.js"></script>
+    <script src="scripts/script.js"></script>
+    <script src="scripts/funBtn.js"></script>
+    <script src="scripts/handleCart.js"></script>
+    <script src="scripts/teste.js"></script>
+    <script src="scripts/startCart.js"></script>
+    <script src="scripts/HandleModal.js"></script>
+
+    <script src="scripts/CartRender.js"></script>
+    <script src="scripts/ReloadCart.js"></script>
+    <script src="scripts/Buy.js"></script>
+</body>
+
+</html>
