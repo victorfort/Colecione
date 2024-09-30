@@ -16,7 +16,7 @@ function addProduct() {
         oldPrice : oldPrice.value,
         currentPrice : currentPrice.value,
         stock: stock.value,
-        photo: `./images/${photo.value}`}
+        photo: `./front/images/${photo.value}`}
 
     postProduct(newproduct)
     

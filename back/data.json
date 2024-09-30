@@ -5,7 +5,7 @@
     "oldPrice": 40,
     "currentPrice": 33,
     "stock": 2,
-    "photo": "./images/naruto.webp"
+    "photo": "./front/images/naruto.webp"
   },
   {
     "id": "rco2ijbpi9p6rj",
@@ -13,7 +13,7 @@
     "oldPrice": 120,
     "currentPrice": 80,
     "stock": 1,
-    "photo": "./images/naruto.webp"
+    "photo": "./front/images/naruto.webp"
   },
   {
     "id": "rcooibhu29p6rj",
@@ -21,7 +21,7 @@
     "oldPrice": 25,
     "currentPrice": 15,
     "stock": 2,
-    "photo": "./images/naruto.webp"
+    "photo": "./front/images/naruto.webp"
   },
   {
     "id": "rco29pv6786rj",
@@ -29,7 +29,7 @@
     "oldPrice": "3",
     "currentPrice": "2",
     "stock": 1,
-    "photo": "./images/menu-3.png"
+    "photo": "./front/images/menu-3.png"
   },
   {
     "id": "ibuh9okrco29p6rj",
@@ -37,7 +37,7 @@
     "oldPrice": "15",
     "currentPrice": "12",
     "stock": 10,
-    "photo": "./images/menu-3.png"
+    "photo": "./front/images/menu-3.png"
   },
   {
     "id": "rco29kjhbuop6rj",
@@ -45,7 +45,7 @@
     "oldPrice": "15",
     "currentPrice": "10",
     "stock": 100,
-    "photo": "./images/menu-3.png"
+    "photo": "./front/images/menu-3.png"
   },
   {
     "id": "rco29poibh6rj",
@@ -53,7 +53,7 @@
     "oldPrice": "20",
     "currentPrice": "10",
     "stock": 10,
-    "photo": "./images/menu-3.png"
+    "photo": "./front/images/menu-3.png"
   },
   {
     "id": "rco29oibp6rj",
@@ -61,7 +61,7 @@
     "oldPrice": "200",
     "currentPrice": "100",
     "stock": 12,
-    "photo": "./images/menu-3.png"
+    "photo": "./front/images/menu-3.png"
   },
   {
     "id": "robut29p6rj",
@@ -69,7 +69,7 @@
     "oldPrice": "10",
     "currentPrice": "5",
     "stock": 10,
-    "photo": "./images/menu-3.png"
+    "photo": "./front/images/menu-3.png"
   },
   {
     "id": "rco29p6rj",
@@ -77,7 +77,7 @@
     "oldPrice": "5",
     "currentPrice": "2",
     "stock": 10,
-    "photo": "./images/menu-3.png"
+    "photo": "./front/images/menu-3.png"
   },
   {
     "id": "xijkabsim",
@@ -85,7 +85,7 @@
     "oldPrice": "10.50",
     "currentPrice": "7.50",
     "stock": 10,
-    "photo": "./images/menu-3.png"
+    "photo": "./front/images/menu-3.png"
   },
   {
     "id": "0201tic66",
@@ -93,6 +93,6 @@
     "oldPrice": "10.50",
     "currentPrice": "7.50",
     "stock": 10,
-    "photo": "./images/menu-3.png"
+    "photo": "./front/images/menu-3.png"
   }
 ]
