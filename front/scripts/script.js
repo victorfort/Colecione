@@ -3,7 +3,7 @@
 const products=[]
 
  cart = []
-const portServer = '../../back/data.json'//'https://raw.githubusercontent.com/victorfort/bdJson/main/bdParaColecione/data.json'
+const portServer = 'back/data.json'//'https://raw.githubusercontent.com/victorfort/bdJson/main/bdParaColecione/data.json'
 
 
 
