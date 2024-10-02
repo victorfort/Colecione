@@ -16,15 +16,21 @@ function contUpdate(lista){
 }
 
 function totalCart(){
-    let total = 0
-    if (cart.length!=0){
-     cart.forEach(item=>{
-        total += item.amount*item.currentPrice
-    })}
+    let total = calculateTotal()
+    
     showTotal = document.getElementById('totalPrice')
     
     showTotal.textContent =  total.toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' });
 
+}
+
+function calculateTotal(){
+    let total = 0
+    if (cart.length!=0){
+        cart.forEach(item=>{
+           total += item.amount*item.currentPrice
+       })}
+       return(total)
 }
 
 

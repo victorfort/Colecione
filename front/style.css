@@ -58,7 +58,7 @@ section {
     left: 0;
     right: 0;
     z-index: 99;
-    /* border-bottom: var(--border); */
+    
     background-color: var(--main-color);
 
 }
@@ -160,17 +160,14 @@ section {
 .title {
     background-color: #fff;
     font-size: 4rem;
-    color: var(--main-color);
+    color: black;
     text-align: center;
     text-transform: uppercase;
     margin-bottom: 4rem;
 
 }
 
-.title span {
-    color: var(--TexColor);
-    text-transform: uppercase;
-}
+
 
 .about .row {
     height: 100%;
@@ -246,7 +243,9 @@ section {
 
 
 .itens .box-container .box img {
-    height: 10rem;
+    min-height: 15rem;
+    min-width: 15rem;
+    
 }
 
 .itens .box-container .box h3 {

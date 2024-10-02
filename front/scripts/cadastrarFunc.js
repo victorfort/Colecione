@@ -16,7 +16,7 @@ function addProduct() {
         oldPrice : oldPrice.value,
         currentPrice : currentPrice.value,
         stock: stock.value,
-        photo: `./front/images/${photo.value}`}
+        photo: `./front/images/products/${photo.value}`}
 
     postProduct(newproduct)
     
@@ -60,7 +60,7 @@ document.getElementById('submit').addEventListener('click', function(event) {
 //parte da verificação da imagem
 
 document.getElementById('urlImg').addEventListener('change', function(event) {
-    const url = `../images/${event.target.value}`; // Obtém o valor selecionado
+    const url = `../images/products/${event.target.value}`; // Obtém o valor selecionado
     
     if (url) { 
        

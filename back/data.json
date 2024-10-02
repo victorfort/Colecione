@@ -1,98 +1,290 @@
 [
   {
-    "id": "rco2iuo8giu9p6rj",
-    "name": "boneco naruto",
-    "oldPrice": 40,
-    "currentPrice": 33,
-    "stock": 2,
-    "photo": "./front/images/naruto.webp"
+    "id": "n6qqh0ht5",
+    "name": "Action Figure Orochimaru",
+    "oldPrice": "85.00",
+    "currentPrice": "49.99",
+    "stock": "1",
+    "photo": "./front/images/products/actionOrochimaru.PNG"
   },
   {
-    "id": "rco2ijbpi9p6rj",
-    "name": "Estatueta Deus da guerra",
-    "oldPrice": 120,
-    "currentPrice": 80,
-    "stock": 1,
-    "photo": "./front/images/naruto.webp"
-  },
-  {
-    "id": "rcooibhu29p6rj",
-    "name": "chaveiro ",
-    "oldPrice": 25,
-    "currentPrice": 15,
-    "stock": 2,
-    "photo": "./front/images/naruto.webp"
-  },
-  {
-    "id": "rco29pv6786rj",
-    "name": "pelota",
-    "oldPrice": "3",
-    "currentPrice": "2",
-    "stock": 1,
-    "photo": "./front/images/menu-3.png"
-  },
-  {
-    "id": "ibuh9okrco29p6rj",
-    "name": "chave de rosca",
-    "oldPrice": "15",
-    "currentPrice": "12",
-    "stock": 10,
-    "photo": "./front/images/menu-3.png"
-  },
-  {
-    "id": "rco29kjhbuop6rj",
-    "name": "café",
+    "id": "rfk80pgrw",
+    "name": "Broche Comensais da Morte",
     "oldPrice": "15",
     "currentPrice": "10",
-    "stock": 100,
-    "photo": "./front/images/menu-3.png"
+    "stock": "2",
+    "photo": "./front/images/products/brocheHP1.PNG"
   },
   {
-    "id": "rco29poibh6rj",
-    "name": "dentadura",
+    "id": "papdfzm7t",
+    "name": "Broche Supernatural",
+    "oldPrice": "15",
+    "currentPrice": "7.99",
+    "stock": "1",
+    "photo": "./front/images/products/brocheSpn.PNG"
+  },
+  {
+    "id": "04l07onl4",
+    "name": "Chaveiro 7 Pecados Capitais Diane",
+    "oldPrice": "12",
+    "currentPrice": "7.99",
+    "stock": "1",
+    "photo": "./front/images/products/chaveiro7P1.PNG"
+  },
+  {
+    "id": "epx1carbw",
+    "name": "Chaveiro 7 Pecados Capitais Elizabeth",
+    "oldPrice": "12",
+    "currentPrice": "7.99",
+    "stock": "1",
+    "photo": "./front/images/products/chaveiro7P2.PNG"
+  },
+  {
+    "id": "6qcbv23tn",
+    "name": "Chaveiro Baby Yoda",
+    "oldPrice": "25",
+    "currentPrice": "14.99",
+    "stock": "2",
+    "photo": "./front/images/products/chaveiroBabyYoda.jpg"
+  },
+  {
+    "id": "q695zyqtt",
+    "name": "Chaveiro Coraline",
+    "oldPrice": "25",
+    "currentPrice": "14.99",
+    "stock": "1",
+    "photo": "./front/images/products/chaveiroCoraline.jpg"
+  },
+  {
+    "id": "48hon4cdy",
+    "name": "Chaveiro Inosuke",
+    "oldPrice": "25.00",
+    "currentPrice": "14.99",
+    "stock": "1",
+    "photo": "./front/images/products/chaveiroInosuke.jpg"
+  },
+  {
+    "id": "03xwj8wpz",
+    "name": "Chaveiro Pequeno Príncipe",
+    "oldPrice": "25",
+    "currentPrice": "14.99",
+    "stock": "1",
+    "photo": "./front/images/products/chaveiroPP.jpg"
+  },
+  {
+    "id": "g3j4i7c1o",
+    "name": "Chaveiro Cada Stark",
+    "oldPrice": "15",
+    "currentPrice": "7.99",
+    "stock": "4",
+    "photo": "./front/images/products/chaveiroStark.PNG"
+  },
+  {
+    "id": "zjfrkawp7",
+    "name": "Chaveiro Tanjiro",
+    "oldPrice": "25",
+    "currentPrice": "14.99",
+    "stock": "1",
+    "photo": "./front/images/products/chaveiroTanjiro.jpg"
+  },
+  {
+    "id": "2pz4yw7jy",
+    "name": "Chaveiro Tristeza",
+    "oldPrice": "25",
+    "currentPrice": "14.99",
+    "stock": "1",
+    "photo": "./front/images/products/chaveiroTriste.jpg"
+  },
+  {
+    "id": "hqn44fmxd",
+    "name": "Colar Chave Shingeki no Kyojin",
     "oldPrice": "20",
-    "currentPrice": "10",
-    "stock": 10,
-    "photo": "./front/images/menu-3.png"
+    "currentPrice": "12",
+    "stock": "1",
+    "photo": "./front/images/products/colarChave.jpg"
   },
   {
-    "id": "rco29oibp6rj",
-    "name": "teste",
-    "oldPrice": "200",
-    "currentPrice": "100",
-    "stock": 12,
-    "photo": "./front/images/menu-3.png"
+    "id": "xpa407yba",
+    "name": "Colar Yu-Gi-Oh Pirâmide",
+    "oldPrice": "25",
+    "currentPrice": "9.99",
+    "stock": "2",
+    "photo": "./front/images/products/colarPirâmide.JPG"
   },
   {
-    "id": "robut29p6rj",
-    "name": "teste 2",
-    "oldPrice": "10",
-    "currentPrice": "5",
-    "stock": 10,
-    "photo": "./front/images/menu-3.png"
+    "id": "e6mz26lwe",
+    "name": "Kit DBZ 4 unidades kit 1",
+    "oldPrice": "85",
+    "currentPrice": "59.99",
+    "stock": "1",
+    "photo": "./front/images/products/kitDBZ1.PNG"
   },
   {
-    "id": "rco29p6rj",
-    "name": "pipoca",
-    "oldPrice": "5",
-    "currentPrice": "2",
-    "stock": 10,
-    "photo": "./front/images/menu-3.png"
+    "id": "n2iiy9uxw",
+    "name": "kit Mario 9 unidades kit 1",
+    "oldPrice": "90",
+    "currentPrice": "59.99",
+    "stock": "1",
+    "photo": "./front/images/products/kitMario1.PNG"
   },
   {
-    "id": "xijkabsim",
-    "name": "pelota teste",
-    "oldPrice": "10.50",
-    "currentPrice": "7.50",
-    "stock": 10,
-    "photo": "./front/images/menu-3.png"
+    "id": "u3avh13r1",
+    "name": "Kit Naruto 5 unidades kit 1.PNG",
+    "oldPrice": "90",
+    "currentPrice": "59.99",
+    "stock": "1",
+    "photo": "./front/images/products/kitNaruto1.PNG"
   },
   {
-    "id": "0201tic66",
-    "name": "pelota teste 3245678",
-    "oldPrice": "10.50",
-    "currentPrice": "7.50",
-    "stock": 10,
-    "photo": "./front/images/menu-3.png"
+    "id": "kubnepket",
+    "name": "Kit Toy Story 8 unidades kit 1",
+    "oldPrice": "90",
+    "currentPrice": "59.99",
+    "stock": "1",
+    "photo": "./front/images/products/kitTS.jpg"
+  },
+  {
+    "id": "k1rv6lmx6",
+    "name": "Miniatura Cavaleiro de Escorpiao",
+    "oldPrice": "18",
+    "currentPrice": "7.99",
+    "stock": "1",
+    "photo": "./front/images/products/miniaturaEscorpiao.jpg"
+  },
+  {
+    "id": "vhen204xz",
+    "name": "Miniatura Naruto 1",
+    "oldPrice": "18",
+    "currentPrice": "8.99",
+    "stock": "1",
+    "photo": "./front/images/products/miniaturaNaruto1.jpg"
+  },
+  {
+    "id": "wy22u43zk",
+    "name": "Miniatura Shikamaru ",
+    "oldPrice": "18",
+    "currentPrice": "9.99",
+    "stock": "1",
+    "photo": "./front/images/products/miniaturaShikamaru.jpg"
+  },
+  {
+    "id": "yp8izeryd",
+    "name": "Miniatura Superman",
+    "oldPrice": "15",
+    "currentPrice": "9.99",
+    "stock": "1",
+    "photo": "./front/images/products/miniaturaSuperman.jpg"
+  },
+  {
+    "id": "vqntcckoj",
+    "name": "Nendoroid Ciborg",
+    "oldPrice": "45",
+    "currentPrice": "19.99",
+    "stock": "1",
+    "photo": "./front/images/products/nendCyborg.jpg"
+  },
+  {
+    "id": "8gc2yp2do",
+    "name": "Nendoroid Itachi 1",
+    "oldPrice": "47",
+    "currentPrice": "25",
+    "stock": "1",
+    "photo": "./front/images/products/nendItachi1.jpg"
+  },
+  {
+    "id": "k8902cxdi",
+    "name": "Nendoroid Itadori",
+    "oldPrice": "40",
+    "currentPrice": "19.99",
+    "stock": "1",
+    "photo": "./front/images/products/nendItadori.jpg"
+  },
+  {
+    "id": "hw9h1e709",
+    "name": "Nendoroid Itadori - Sukuna",
+    "oldPrice": "40",
+    "currentPrice": "19.99",
+    "stock": "1",
+    "photo": "./front/images/products/nendItadori2.jpg"
+  },
+  {
+    "id": "g96kismwz",
+    "name": "Nendoroid Jiraiya",
+    "oldPrice": "85",
+    "currentPrice": "45",
+    "stock": "1",
+    "photo": "./front/images/products/nendJiraiya.PNG"
+  },
+  {
+    "id": "z11cw49cb",
+    "name": "Nendoroid Megumi",
+    "oldPrice": "40",
+    "currentPrice": "19.99",
+    "stock": "1",
+    "photo": "./front/images/products/nendMegumi.jpg"
+  },
+  {
+    "id": "pi825jn63",
+    "name": "Nendoroid Nobara",
+    "oldPrice": "40",
+    "currentPrice": "19.99",
+    "stock": "1",
+    "photo": "./front/images/products/nendNobara.jpg"
+  },
+  {
+    "id": "awilt82e5",
+    "name": "Nendoroid Satoru Gojo 1",
+    "oldPrice": "40",
+    "currentPrice": "19.99",
+    "stock": "1",
+    "photo": "./front/images/products/nendSatoru1.jpg"
+  },
+  {
+    "id": "orjiq2c6o",
+    "name": "Nendoroid Satoru Gojo 2",
+    "oldPrice": "45",
+    "currentPrice": "25",
+    "stock": "1",
+    "photo": "./front/images/products/nendSatoru2.jpg"
+  },
+  {
+    "id": "af1k370ji",
+    "name": "Pelúcia Estrela Que Brilha",
+    "oldPrice": "60",
+    "currentPrice": "29.90",
+    "stock": "1",
+    "photo": "./front/images/products/peluciaEstrela.jpg"
+  },
+  {
+    "id": "q2d3j7yeb",
+    "name": "Pelúcia Fantasma do Mario",
+    "oldPrice": "40",
+    "currentPrice": "19.99",
+    "stock": "2",
+    "photo": "./front/images/products/peluciaFantasmaMario.jpg"
+  },
+  {
+    "id": "2rfci9cup",
+    "name": "Pelúcia Gato 1 ",
+    "oldPrice": "25",
+    "currentPrice": "9.99",
+    "stock": "1",
+    "photo": "./front/images/products/peluciaGato1.jpg"
+  },
+  {
+    "id": "okeivl4uk",
+    "name": "Pelúcia Gato 2",
+    "oldPrice": "25",
+    "currentPrice": "9.99",
+    "stock": "1",
+    "photo": "./front/images/products/peluciaGato2.jpg"
+  },
+  {
+    "id": "k3oel1q5z",
+    "name": "Pelúcia Mario 1",
+    "oldPrice": "80",
+    "currentPrice": "40",
+    "stock": "1",
+    "photo": "./front/images/products/peluciaMario1.PNG"
   }
 ]
