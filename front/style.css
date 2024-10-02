@@ -427,6 +427,9 @@ section {
 }
 
 @media (max-width: 768px) {
+    .header{
+        position: absolute;
+    }
     .header section nav{
         display: flex;
         align-items: center;
