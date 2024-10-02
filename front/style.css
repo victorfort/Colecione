@@ -441,6 +441,9 @@ section {
     .header  section nav a{
         font-size: 1.9rem ;
     }
+    #home{
+        margin-top: 8rem;
+    }
 
     #home .content{
         display: flex ;
