@@ -1,5 +1,5 @@
 function buy() {
-    const phoneNumber = '5583996652964'//'558398047452';
+    const phoneNumber = '5583996659336'//'558398047452';
     //pegar todos os nomes e ids dos itens que estão no carrinho e mandar no wpp
     let buy = 'Olá, gostaria de pedir: ';
     if (cart.length > 0) {
